@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AspNetCoreTodo.Models;
 using AspNetCoreTodo.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,9 +15,13 @@ namespace AspNetCoreTodo.Controllers{
             _todoItemService = todoItemService;
         }
         
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var items = await _todoItemService.GetIncompleteItemAsync();
+            var model = new TodoViewModel(){
+                Items = items
+            };
+            return View(model);
         }
     }
 }

@@ -92,3 +92,4 @@ D:\Documents\Web\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\staticweb
 D:\Documents\Web\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.dll
 D:\Documents\Web\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.pdb
 D:\Documents\Web\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.genruntimeconfig.cache
+D:\Documents\Web\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Todo\Index.cshtml.g.cs

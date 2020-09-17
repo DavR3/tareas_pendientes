@@ -352,3 +352,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.csprojAssemblyReference.cache

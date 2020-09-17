@@ -353,3 +353,14 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 obj/Debug/netcoreapp3.1/AspNetCoreTodo.csprojAssemblyReference.cache
+bin/Debug/netcoreapp3.1/AspNetCoreTodo.dll
+bin/Debug/netcoreapp3.1/AspNetCoreTodo.pdb
+bin/Debug/netcoreapp3.1/AspNetCoreTodo.Views.dll
+bin/Debug/netcoreapp3.1/AspNetCoreTodo.Views.pdb
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.assets.cache
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.dll
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.pdb
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.Views.dll
+obj/Debug/netcoreapp3.1/AspNetCoreTodo.Views.pdb
